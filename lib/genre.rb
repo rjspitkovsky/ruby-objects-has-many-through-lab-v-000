@@ -5,10 +5,10 @@ class Genre
     def initialize(name)
       @name = name
       @songs = []
-    end 
+    end
 
-    def songs 
-      @songs 
+    def songs
+      @songs
     end 
 
 end
